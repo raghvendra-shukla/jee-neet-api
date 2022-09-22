@@ -1,4 +1,4 @@
-const NEETdata=[
+const neetdata=[
     {
         Bookname:"Dinesh Objective Biology for NEET",
         Subject:"Biology",
@@ -511,4 +511,4 @@ const NEETdata=[
     },
 ]
 
-exports.NEETdata=NEETdata;
+exports.neetdata=neetdata;

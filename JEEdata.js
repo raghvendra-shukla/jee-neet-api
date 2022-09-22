@@ -1,4 +1,4 @@
-const JEEdata=[
+const jeedata=[
     {
         Bookname:"Modern ABC Part 1 and 2",
         Subject:"Chemistry",
@@ -601,7 +601,7 @@ const JEEdata=[
     },
 ]
 
-exports.JEEdata=JEEdata;
+exports.jeedata=jeedata;
 
 // {
 //     Bookname:

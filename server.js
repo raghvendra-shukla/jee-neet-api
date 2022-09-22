@@ -2,8 +2,8 @@ const express=require("express");
 const cors=require("cors");
 const port=process.env.PORT || 3000;
 const app=express();
-const {JEEdata}=require("./jeedata");
-const {NEETdata}=require("./neetdata");
+const {jeedata}=require("./jeedata");
+const {neetdata}=require("./neetdata");
 
 app.set("view engine","ejs");
 app.use(cors());
@@ -15,11 +15,11 @@ app.get("/",(req,res)=>{
 })
 
 app.get("/api/jee",(req,res)=>{
-    res.json(JEEdata);
+    res.json(jeedata);
 })
 
 app.get("/api/neet",(req,res)=>{
-    res.json(NEETdata);
+    res.json(neetdata);
 })
 
 app.listen(port,()=>{
