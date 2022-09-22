@@ -1,6 +1,6 @@
 const JEEdata=[
     {
-        Bookname:"Modern ABC part 1 and 2",
+        Bookname:"Modern ABC Part 1 and 2",
         Subject:"Chemistry",
         BookImg:"https://rukminim1.flixcart.com/image/416/416/kppt47k0/regionalbooks/1/w/x/modern-abc-chemistry-for-class-11-part-i-ii-examination-2021-original-imag3vmf8mym5a4d.jpeg?q=70",
         Author:"SP Jauhar",
