@@ -190,13 +190,13 @@ const neetdata=[
         Pdf:"",
     },
     {
-        Bookname:"Wiley's J.D. Lee Concise Inorganic Chemistry",
+        Bookname:"Physical Chemistry for JEE Main & Advanced",
         Subject:"Chemistry",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51cdD1AzESL._SX365_BO1,204,203,200_.jpg",
-        Author:"Sudarsan Guha",
+        BookImg:"https://m.media-amazon.com/images/I/51x7serd9bL._SX370_BO1,204,203,200_.jpg",
+        Author:"K.L. Kapoor",
         Class:"Both",
-        Price:"640",
-        Buy:"https://www.amazon.in/Wileys-Concise-Inorganic-Chemistry-Advanced/dp/9354644201/ref=sr_1_2_sspa?crid=18EG4AE306VZ5&keywords=inorganic+chemistry+jee&qid=1663047986&s=books&sprefix=inor%2Cstripbooks%2C297&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSUlGTjYyMVZPUlZRJmVuY3J5cHRlZElkPUEwNzc2MDkyMThLQTZWNDVaWVI1SyZlbmNyeXB0ZWRBZElkPUEwODIzMDY2U1czREs4V1A1R0JSJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==",
+        Price:"500",
+        Buy:"https://www.amazon.in/Physical-Chemistry-JEE-Main-Advanced/dp/9352606086",
         Pdf:"",
     },
     {
@@ -472,7 +472,7 @@ const neetdata=[
     {
         Bookname:"Complete Neet Guide Physics",
         Subject:"Physics",
-        BookImg:"https://www.flipkart.com/complete-neet-guide-physics/p/itmf7fyjvdv2xcmc?pid=9789388899925&lid=LSTBOK9789388899925XOQHJI&marketplace=FLIPKART&q=physics+for+neet&store=bks&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=4d62d18d-9614-4bac-a18c-c5ced186831e.9789388899925.SEARCH&ppt=sp&ppn=sp&ssid=o831v45gio0000001663780472216&qH=a30d5f87e205ebf2",
+        BookImg:"https://rukminim1.flixcart.com/image/416/416/jwmfcsw0/book/9/2/5/complete-neet-guide-physics-original-imafh9avekjjwhgz.jpeg?q=70",
         Author:"MTG Experts",
         Class:"Both",
         Price:"607",
