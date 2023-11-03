@@ -42,7 +42,7 @@ const neetdata=[
     {
         Bookname:"Concepts of Physics part 1",
         Subject:"Physics",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51MUOHEBCxL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/81Xq+QdmRmL._SY425_.jpg",
         Author:"H. C. Verma",
         Class:"11th",
         Price:"389",
@@ -52,7 +52,7 @@ const neetdata=[
     {
         Bookname:"Concepts of Physics part 2",
         Subject:"Physics",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/216JzquN50L._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/71LGMML5F7L._SY425_.jpg",
         Author:"H. C. Verma",
         Class:"12th",
         Price:"375",
@@ -82,7 +82,7 @@ const neetdata=[
     {
         Bookname:"Physics Quick Books",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41LxlxPUfHL._SX382_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41LxlxPUfHL._SY445_SX342_.jpg",
         Author:"D.C Pandey",
         Class:"Both",
         Price:"142",
@@ -102,7 +102,7 @@ const neetdata=[
     {
         Bookname:"Science For Everyone",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41SEai4HAaL._SX322_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51Yd4oD9ghL._SY425_.jpg",
         Author:"S.S. Krotov",
         Class:"Both",
         Price:"90",
@@ -142,7 +142,7 @@ const neetdata=[
     {
         Bookname:"Wiley's Solomons, Fryhle & Snyder Organic Chemistry",
         Subject:"Chemistry",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41txy6c39XL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/71SaK4HhNdL._SY425_.jpg",
         Author:"M S Chouhan",
         Class:"Both",
         Price:"700",
@@ -162,7 +162,7 @@ const neetdata=[
     {
         Bookname:"Wiley's Physical Chemistry for JEE",
         Subject:"Chemistry",
-        BookImg:"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/81Qvt7NEy0L._AC_UY218_.jpghttps://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41txy6c39XL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/81Qvt7NEy0L._SY425_.jpg",
         Author:"Vipul Mehta",
         Class:"Both",
         Price:"741",
@@ -202,7 +202,7 @@ const neetdata=[
     {
         Bookname:"Wiley's J.D. Lee Concise Inorganic Chemistry",
         Subject:"Chemistry",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51cdD1AzESL._SX365_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/81A1d1AQd1L._SY425_.jpg",
         Author:"Sudarsan Guha",
         Class:"Both",
         Price:"640",
@@ -212,7 +212,7 @@ const neetdata=[
     {
         Bookname:"Grb A Textbook Of Physical Chemistry",
         Subject:"Chemistry",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51XFzLX7IaL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51K1HW3EItL._SY425_.jpg",
         Author:"Dr.O.P.Tandon",
         Class:"12th",
         Price:"519",
@@ -232,7 +232,7 @@ const neetdata=[
     {
         Bookname:"GRB Organic Chemistry for Competition",
         Subject:"Chemistry",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51lR3UPIJzL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/716u-yPj5qL._SY425_.jpg",
         Author:"Dr.O.P.Tandon",
         Class:"Both",
         Price:"1349",
@@ -242,7 +242,7 @@ const neetdata=[
     {
         Bookname:"GRB Inorganic Chemistry for Competition",
         Subject:"Chemistry",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/61iCxVDXymL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/71eVEHZKlYL._SX679_.jpg",
         Author:"Dr.O.P.Tandon",
         Class:"Both",
         Price:"1300",

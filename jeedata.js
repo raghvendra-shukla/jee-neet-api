@@ -12,7 +12,7 @@ const jeedata=[
     {
         Bookname:"Concepts of Physics part 1",
         Subject:"Physics",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51MUOHEBCxL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/81Xq+QdmRmL._SY425_.jpg",
         Author:"H. C. Verma",
         Class:"11th",
         Price:"389",
@@ -22,7 +22,7 @@ const jeedata=[
     {
         Bookname:"Concepts of Physics part 2",
         Subject:"Physics",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/216JzquN50L._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/71LGMML5F7L._SY425_.jpg",
         Author:"H. C. Verma",
         Class:"12th",
         Price:"375",
@@ -32,7 +32,7 @@ const jeedata=[
     {
         Bookname:"ARIHANT VECTOR & 3D GEOMETRY",
         Subject:"Maths",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51A15jwVIIL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/81RQmEwGQ7L._SY425_.jpg",
         Author:"Amit M Agarwal",
         Class:"12th",
         Price:"204",
@@ -42,7 +42,7 @@ const jeedata=[
     {
         Bookname:"ARIHANT INTEGRAL CALCULUS",
         Subject:"Maths",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/515zzVBw4RL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/515zzVBw4RL._SY425_.jpg",
         Author:"Amit M Agarwal",
         Class:"12th",
         Price:"255",
@@ -72,7 +72,7 @@ const jeedata=[
     {
         Bookname:"CENGAGE INORGANIC CHEMISTRY",
         Subject:"Chemistry",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51Y7Y9VXLeL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51Y7Y9VXLeL._SX342_SY445_.jpg",
         Author:"K. S. Verma",
         Class:"Both",
         Price:"1330",
@@ -92,7 +92,7 @@ const jeedata=[
     {
         Bookname:"VK JAISWAL INORGANIC CHEMISTRY",
         Subject:"Chemistry",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51ez3WJETML._SX375_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/71l8+oQC3mL._SY425_.jpg",
         Author:"V.K Jaiswal",
         Class:"Both",
         Price:"545",
@@ -102,7 +102,7 @@ const jeedata=[
     {
         Bookname:"Wiley's Solomons, Fryhle & Snyder Organic Chemistry",
         Subject:"Chemistry",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41txy6c39XL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/71SaK4HhNdL._SY425_.jpg",
         Author:"M S Chouhan",
         Class:"Both",
         Price:"700",
@@ -112,7 +112,7 @@ const jeedata=[
     {
         Bookname:"Wiley's Physical Chemistry for JEE",
         Subject:"Chemistry",
-        BookImg:"https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/81Qvt7NEy0L._AC_UY218_.jpghttps://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41txy6c39XL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/81Qvt7NEy0L._SY425_.jpg",
         Author:"Vipul Mehta",
         Class:"Both",
         Price:"741",
@@ -132,7 +132,7 @@ const jeedata=[
     {
         Bookname:"Wiley's J.D. Lee Concise Inorganic Chemistry",
         Subject:"Chemistry",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51cdD1AzESL._SX365_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/81A1d1AQd1L._SY425_.jpg",
         Author:"Sudarsan Guha",
         Class:"Both",
         Price:"640",
@@ -142,7 +142,7 @@ const jeedata=[
     {
         Bookname:"Grb A Textbook Of Physical Chemistry",
         Subject:"Chemistry",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51XFzLX7IaL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51K1HW3EItL._SY425_.jpg",
         Author:"Dr.O.P.Tandon",
         Class:"12th",
         Price:"519",
@@ -152,7 +152,7 @@ const jeedata=[
     {
         Bookname:"GRB Organic Chemistry for Competition",
         Subject:"Chemistry",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51lR3UPIJzL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/716u-yPj5qL._SY425_.jpg",
         Author:"Dr.O.P.Tandon",
         Class:"Both",
         Price:"1349",
@@ -162,7 +162,7 @@ const jeedata=[
     {
         Bookname:"GRB Inorganic Chemistry for Competition",
         Subject:"Chemistry",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/61iCxVDXymL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/71eVEHZKlYL._SX679_.jpg",
         Author:"Dr.O.P.Tandon",
         Class:"Both",
         Price:"1300",
@@ -172,17 +172,17 @@ const jeedata=[
     {
         Bookname:"WILEY’S PROBLEMS IN MATHEMATICS PART-1",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51xTuYNH2mL._SX382_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/81UBiwxhfEL._SY425_.jpg",
         Author:" Wiley Editorial",
         Class:"11th",
         Price:"395",
         Buy:"https://www.amazon.in/Wileys-Problems-Mathematics-JEE-Vol/dp/8126576294",
-        Pdf:"https://www.pdfdrive.com/download.pdf?id=187564812&h=e2085b85105ffffd165ced2ca13a4f99&u=cache&ext=pdf",
+        Pdf:"https://wwwjpgDifferential Calculus Booster.pdfdrive.com/download.pdf?id=187564812&h=e2085b85105ffffd165ced2ca13a4f99&u=cache&ext=pdf",
     },
     {
         Bookname:"WILEY’S PROBLEMS IN MATHEMATICS PART-2",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51xTuYNH2mL._SX382_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/811e5o9409L._SY425_.jpg",
         Author:" Wiley Editorial",
         Class:"12th",
         Price:"372",
@@ -202,7 +202,7 @@ const jeedata=[
     {
         Bookname:"Differential Calculus Booster",
         Subject:"maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51d7B0DvNkL._SX383_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/81BEi70MjTL._SY425_.jpg",
         Author:"Rejaul Makshud",
         Class:"Both",
         Price:"400",
@@ -212,7 +212,7 @@ const jeedata=[
     {
         Bookname:"Integral Calculus, 3D Geometry & Vector Booster",
         Subject:"maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51ro6CMsfEL._SX383_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/81Qp5KDVKdL._SY425_.jpg",
         Author:"Rejaul Makshud",
         Class:"Both",
         Price:"500",
@@ -222,7 +222,7 @@ const jeedata=[
     {
         Bookname:"Trigonometry Booster with Problems",
         Subject:"maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/5118EowubtL._SX379_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/5118EowubtL._SY445_SX342_.jpg",
         Author:"Rejaul Makshud",
         Class:"Both",
         Price:"375",
@@ -232,7 +232,7 @@ const jeedata=[
     {
         Bookname:"Coordinate Geometry Booster",
         Subject:"maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/5172XIlVypL._SX379_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/5172XIlVypL._SY445_SX342_.jpg",
         Author:"Rejaul Makshud",
         Class:"Both",
         Price:"799",
@@ -272,7 +272,7 @@ const jeedata=[
     {
         Bookname:"Science For Everyone",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41SEai4HAaL._SX322_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41SEai4HAaL._SY445_SX342_.jpg",
         Author:"S.S. Krotov",
         Class:"Both",
         Price:"90",
@@ -282,7 +282,7 @@ const jeedata=[
     {
         Bookname:"Modern ABC of Physics",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41SEai4HAaL._SX322_BO1,204,203,200_.jpg",
+        BookImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/book/i/7/g/-original-imagzjn7nzypd5zp.jpeg?q=70",
         Author:"Satish K. Gupta",
         Class:"11th",
         Price:"1169",
@@ -302,7 +302,7 @@ const jeedata=[
     {
         Bookname:"A Problem Book in Physics for IIT JEE",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51W-Xvl5o-S._SX382_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51W-Xvl5o-S._SY445_SX342_.jpg",
         Author:"D.C Pandey",
         Class:"Both",
         Price:"281",
@@ -312,7 +312,7 @@ const jeedata=[
     {
         Bookname:"Understanding Physics JEE Main and Advanced Optics and Modern Physics",
         Subject:"Physics",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41C2oszKcTL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41UnZsK80zL._SY445_SX342_.jpg",
         Author:"D.C Pandey",
         Class:"12th",
         Price:"276",
@@ -322,7 +322,7 @@ const jeedata=[
     {
         Bookname:"Understanding Physics JEE Main and Advanced Electricity and Magnetism",
         Subject:"Physics",
-        BookImg:"https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51IREj2XaCL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51IREj2XaCL._SY445_SX342_.jpg",
         Author:"D.C Pandey",
         Class:"12th",
         Price:"399",
@@ -332,7 +332,7 @@ const jeedata=[
     {
         Bookname:"Understanding Physics JEE Main and Advanced Mechanics Volume 1",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51KLESjR7qL._SX382_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/61gU4x4niHL._SY425_.jpg",
         Author:"D.C Pandey",
         Class:"11th",
         Price:"333",
@@ -342,7 +342,7 @@ const jeedata=[
     {
         Bookname:"Understanding Physics JEE Main and Advanced Mechanics Volume 2",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51vxFH264uL._SX382_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51vxFH264uL._SY445_SX342_.jpg",
         Author:"D.C Pandey",
         Class:"11th",
         Price:"358",
@@ -352,7 +352,7 @@ const jeedata=[
     {
         Bookname:" Cengage Physics for JEE Main",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51VckP5Y30L._SX381_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51VckP5Y30L._SY445_SX342_.jpg",
         Author:"B. M. Sharma",
         Class:"Both",
         Price:"694",
@@ -362,7 +362,7 @@ const jeedata=[
     {
         Bookname:" Cengage Chemistry for JEE Main",
         Subject:"Chemistry",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51wF7lwaRXL._SX384_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51wF7lwaRXL._SX342_SY445_.jpg",
         Author:"Seema Saini/K.S. Saini",
         Class:"Both",
         Price:"710",
@@ -372,7 +372,7 @@ const jeedata=[
     {
         Bookname:" Cengage Mathematics for JEE Main",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/518D9g2xb7L._SX381_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/518D9g2xb7L._SY445_SX342_.jpg",
         Author:"G. Tewani",
         Class:"Both",
         Price:"756",
@@ -382,7 +382,7 @@ const jeedata=[
     {
         Bookname:"Cengage JEE Advanced Maths for 2021 - Set of 5 Books",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51ZS5fOyb+S._SY421_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51SVvpLGtCL._SY445_SX342_.jpg",
         Author:"G TEWANI",
         Class:"Both",
         Price:"3655",
@@ -392,7 +392,7 @@ const jeedata=[
     {
         Bookname:"Objective Mathematics for Engineering Entrances - Vol. 1",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51n4fpDZ4rL._SX385_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51n4fpDZ4rL._SX342_SY445_.jpg",
         Author:"Amit M Agarwal",
         Class:"11th",
         Price:"780",
@@ -402,7 +402,7 @@ const jeedata=[
     {
         Bookname:"Objective Mathematics for Engineering Entrances - Vol. 2",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/518kpSFWJuL._SX390_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/518kpSFWJuL._SX342_SY445_.jpg",
         Author:"Amit M Agarwal",
         Class:"12th",
         Price:"749",
@@ -422,7 +422,7 @@ const jeedata=[
     {
         Bookname:"Physics Quick Books",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41LxlxPUfHL._SX382_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41LxlxPUfHL._SY445_SX342_.jpg",
         Author:"D.C Pandey",
         Class:"Both",
         Price:"142",
@@ -432,7 +432,7 @@ const jeedata=[
     {
         Bookname:"Physics Galaxy : Advanced Illustration in Physics",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41KzdOwOjZL._SX366_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41KzdOwOjZL._SY445_SX342_.jpg",
         Author:"Ashish Arora",
         Class:"Both",
         Price:"360",
@@ -442,7 +442,7 @@ const jeedata=[
     {
         Bookname:"Physics Galaxy : Mechanics - Vol. 1",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41f8ztH4r9L._SX366_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41ACf71GKXL._SY445_SX342_.jpg",
         Author:"Ashish Arora",
         Class:"11th",
         Price:"499",
@@ -452,7 +452,7 @@ const jeedata=[
     {
         Bookname:"Physics Galaxy : Thermodynamics, Oscillations  & Waves - Vol. 2",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51Z2tkr-E0L._SX366_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51Z2tkr-E0L._SY445_SX342_.jpg",
         Author:"Ashish Arora",
         Class:"11th",
         Price:"366",
@@ -462,7 +462,7 @@ const jeedata=[
     {
         Bookname:"Physics Galaxy : Electrostatics & Current Electricity - Vol. 3A ",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51SHn4F7rKL._SX366_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51SHn4F7rKL._SY445_SX342_.jpg",
         Author:"Ashish Arora",
         Class:"12th",
         Price:"376",
@@ -472,7 +472,7 @@ const jeedata=[
     {
         Bookname:"Physics Galaxy : Magnetism, EMI & Alternating Current - Vol. 3B",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41m-qR7UF-S._SX366_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41m-qR7UF-S._SY445_SX342_.jpg",
         Author:"Ashish Arora",
         Class:"12th",
         Price:"300",
@@ -482,7 +482,7 @@ const jeedata=[
     {
         Bookname:"Physics Galaxy : Optics & Modern Physics - Vol. 4 ",
         Subject:"Physics",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41Ivq7OG05L._SX366_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41Ivq7OG05L._SY445_SX342_.jpg",
         Author:"Ashish Arora",
         Class:"12th",
         Price:"529",
@@ -492,7 +492,7 @@ const jeedata=[
     {
         Bookname:"Disha 120 JEE Main Mathematics",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41CzreLe3WL._SX380_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/71oLOnTEv1L._SY425_.jpg",
         Author:"Disha Experts",
         Class:"Both",
         Price:"480",
@@ -502,7 +502,7 @@ const jeedata=[
     {
         Bookname:"JEE Advanced Mathematics - Calculus",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41eX+l+sE5L._SX403_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41eX+l+sE5L._SY445_SX342_.jpg",
         Author:"Om Sharma",
         Class:"Both",
         Price:"876",
@@ -512,7 +512,7 @@ const jeedata=[
     {
         Bookname:"JEE Advanced Mathematics - Coordinate Geometry",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41imng5ktCL._SX378_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41imng5ktCL._SY425_.jpg",
         Author:"Om Sharma",
         Class:"Both",
         Price:"607",
@@ -522,7 +522,7 @@ const jeedata=[
     {
         Bookname:"JEE Advanced Mathematics - Algebra",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41n0EGhlFXS._SX395_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41vGxcVlf3L._SX342_SY445_.jpg",
         Author:"Om Sharma",
         Class:"Both",
         Price:"670",
@@ -532,17 +532,17 @@ const jeedata=[
     {
         Bookname:"Arihant Mathematics Jee Main & Advanced sets of 7 books",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/510vEBpmWOL._SY355_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/71g6+SG9xrL._SY425_.jpg",
         Author:"Arihant Experts",
         Class:"Both",
         Price:"2455",
-        Buy:"https://www.amazon.in/Arihant-Mathematics-Advanced-2022-23-Paperback/dp/B09YJ2GF3C/ref=sr_1_1?keywords=maths+arihant&qid=1663082620&s=books&sr=1-1",
+        Buy:"https://www.amazon.in/Arihant-Main-Adv-Math-Book/dp/B0C1TJ26WR",
         Pdf:"",
     },
     {
         Bookname:"Handbook of Mathematics",
         Subject:"Maths",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41wyB-id8RS._SX322_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/41REatt5ARL._SY445_SX342_.jpg",
         Author:"Arihant Experts",
         Class:"Both",
         Price:"177",
@@ -552,7 +552,7 @@ const jeedata=[
     {
         Bookname:"Concept of Physical Chemistry",
         Subject:"Chemistry",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51GxXGxUr4L._SX389_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/81ApCq0Z3kL._SY425_.jpg",
         Author:"P. Bahadur",
         Class:"Both",
         Price:"1220",
@@ -592,7 +592,7 @@ const jeedata=[
     {
         Bookname:"44 Years Chemistry JEE Advanced ",
         Subject:"Chemistry",
-        BookImg:"https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/51U2jwcuhkL._SX384_BO1,204,203,200_.jpg",
+        BookImg:"https://m.media-amazon.com/images/I/51Fh-taCttL._SY445_SX342_.jpg",
         Author:"Disha Experts",
         Class:"both",
         Price:"455",
